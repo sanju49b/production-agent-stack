@@ -1,4 +1,4 @@
-# 🤖 Production Agentic AI Template
+# Production Agentic AI Template
 
 > A battle-tested template for building agentic AI systems that actually ship to production — not just demos.
 
@@ -26,7 +26,7 @@ There's a massive gap between a working LangGraph prototype and a production-gra
 | LLMOps | MLflow, Weights & Biases, vLLM |
 | Containerisation | Docker, Kubernetes |
 | CI/CD | GitHub Actions |
-| Cloud | Azure ML, AWS SageMaker |
+| Cloud | AWS  |
 
 ---
 
